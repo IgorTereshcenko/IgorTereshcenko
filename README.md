@@ -25,3 +25,6 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
 </div>
+<div>
+  <a href="https://career.habr.com/igortereshcenko">Cсылка на Хабр </a>
+</div>
