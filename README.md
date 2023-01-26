@@ -21,10 +21,6 @@
 </div>
 <h3>Связаться со мной:</h3>
 <div id="badges">
-<a href="https://t.me/IgorTereschenko">
- 
-</a>
+<a href="https://t.me/IgorTereschenko">Телеграмм</a>
 </div>
-<div>
-  <a href="https://career.habr.com/igortereshcenko">Cсылка на Хабр </a>
-</div>
+
