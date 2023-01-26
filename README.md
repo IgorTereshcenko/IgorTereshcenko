@@ -22,7 +22,7 @@
 <h3>Связаться со мной:</h3>
 <div id="badges">
 <a href="https://t.me/IgorTereschenko">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+ 
 </a>
 </div>
 <div>
